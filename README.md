@@ -13,7 +13,7 @@ Make sure you have the following installed:
 
 # Clone the repository:
 
-git clone `https://github.com/your-username/student-management-api.git`
+git clone `https://github.com/shazin-v/CRUD.git`
 
 # Install dependencies:
 
